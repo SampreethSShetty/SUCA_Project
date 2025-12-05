@@ -61,7 +61,7 @@ Live buses + metro + BMTC markers
 Heatmap overlay using leaflet.heat
 
 ### 🏗 Tech Stack
-####Frontend
+#### Frontend
 React.js
 
 React-Leaflet
@@ -105,7 +105,7 @@ npm install
 npm start
 Frontend runs at → 
 
-###🔥 Backend API Endpoints
+### 🔥 Backend API Endpoints
 Endpoint	Description
 /stops	Fetch all stops
 /route?from=X&to=Y	Best routes
