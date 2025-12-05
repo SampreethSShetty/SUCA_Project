@@ -1,5 +1,6 @@
-🚍 SUCA — Smart Urban Commute Assistant
-Real-time Public Transport + Shared Mobility + AI Predictions
+# 🚍 SUCA — Smart Urban Commute Assistant
+### Real-time Public Transport + Shared Mobility + AI Predictions
+
 SUCA (Smart Urban Commute Assistant) is a unified smart mobility platform designed to reduce travel uncertainty in cities by combining:
 
 Real-time bus & metro tracking
@@ -16,7 +17,7 @@ Heatmap-based congestion visualization
 
 Built using React, Node.js, Express, and OpenStreetMap, SUCA delivers an intuitive and intelligent travel planning experience.
 
-⭐ Features
+### ⭐ Features
 🚍 1. Real-Time Public Transport Tracking
 Live bus movement simulation
 
@@ -59,8 +60,8 @@ Live buses + metro + BMTC markers
 
 Heatmap overlay using leaflet.heat
 
-🏗 Tech Stack
-Frontend
+### 🏗 Tech Stack
+####Frontend
 React.js
 
 React-Leaflet
@@ -69,7 +70,7 @@ Leaflet.js
 
 Leaflet Heatmap Extension
 
-Backend
+#### Backend
 Node.js
 
 Express.js
@@ -78,7 +79,7 @@ Simulated live bus/metro models
 
 RESTful APIs
 
-📁 Project Structure
+### 📁 Project Structure
 SUCA_Project/
 │
 ├── frontend/
@@ -91,7 +92,7 @@ SUCA_Project/
 └── backend/
     ├── index.js
     ├── package.json
-🚀 How to Run the Project
+### 🚀 How to Run the Project
 1️⃣ Start Backend
 cd backend
 npm install
@@ -104,7 +105,7 @@ npm install
 npm start
 Frontend runs at → 
 
-🔥 Backend API Endpoints
+###🔥 Backend API Endpoints
 Endpoint	Description
 /stops	Fetch all stops
 /route?from=X&to=Y	Best routes
@@ -115,10 +116,10 @@ Endpoint	Description
 /live-buses	City bus live tracking
 /bmtc-live	BMTC bus live tracking
 /metro-live	Metro train live simulation
-🎯 One-Line Summary
+### 🎯 One-Line Summary
 SUCA unifies public transport, shared mobility, and AI to deliver the fastest, smartest, and most predictable urban travel experience.
 
-🏆 Why This Project Stands Out
+### 🏆 Why This Project Stands Out
 Combines multiple smart-city features into one system
 
 Real-time interactive visuals
@@ -129,5 +130,5 @@ Completely scalable architecture
 
 Looks impressive in demos & hackathons
 
-📜 License
+### 📜 License
 This project is for educational and demo/hackathon use.
